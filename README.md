@@ -1,0 +1,3 @@
+# Testing with Go
+
+A practice repo for Go testing using [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) as a tutorial.
